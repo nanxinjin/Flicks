@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EECB7EEBBA7E030C5077805D0C76433DDCD048D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "314A3D9595D143A0CBB57308453D220A0958BCD5" : 9223372036854775807,
+    "EECB7EEBBA7E030C5077805D0C76433DDCD048D8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E311284-AB05-4A22-B3E2-DE0A4F631CA4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "314A3D9595D143A0CBB57308453D220A0958BCD5" : "",
+    "EECB7EEBBA7E030C5077805D0C76433DDCD048D8" : "MoviePicker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MoviePicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MoviePicker\/MoviePicker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nanxinjin\/iOS-OSX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "314A3D9595D143A0CBB57308453D220A0958BCD5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nanxinjin\/MoviePicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EECB7EEBBA7E030C5077805D0C76433DDCD048D8"
+    }
+  ]
+}
