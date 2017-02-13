@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePicker/DetailViewController.swift"
+            timestampString = "508206048.88698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MoviePicker.DetailViewController"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206169.734333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MoviePicker.DetailViewController"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206169.736151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MoviePicker.DetailViewController&gt;"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206169.737714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MoviePicker.DetailViewController&gt;"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206169.739102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePicker/DetailViewController.swift"
+            timestampString = "508206185.128451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.posterimageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206185.133378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.posterimageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206185.135008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MoviePicker.DetailViewController"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206185.136977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePicker.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MoviePicker.DetailViewController&gt;"
+                  moduleName = "MoviePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NanxinJ1/Documents/CS/iOS-OSX/MoviePicker/MoviePicker/MoviePicker/DetailViewController.swift"
+                  timestampString = "508206185.138516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePicker/AppDelegate.swift"
+            timestampString = "508314564.436194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
